@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Ubuntu&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+/* body {
+  font-family: 'Work Sans', sans-serif;
+} */
+
+.ck-editor__editable {
+  min-height: 250px !important;
+}
+
+.ck.ck-editor__main > .ck-editor__editable {
+  background-color: #27292e !important;
+}
